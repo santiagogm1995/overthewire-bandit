@@ -1,0 +1,2 @@
+nmap -p 31000-32000 127.0.0.1
+openssl s_client -connect 127.0.0.1:31790
